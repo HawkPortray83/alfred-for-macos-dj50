@@ -1,4 +1,4 @@
-#  
+#  Alfred for macOS best Script: calendar integration & export to PDF offers the most advanced Alfred for macOS script, with calendar integration and export to PDF. Ideal for
 
 
 
